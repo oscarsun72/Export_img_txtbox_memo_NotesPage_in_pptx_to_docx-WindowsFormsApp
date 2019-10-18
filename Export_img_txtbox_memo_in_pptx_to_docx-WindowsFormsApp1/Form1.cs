@@ -98,6 +98,7 @@ namespace Export_img_txtbox_memo_in_pptx_to_docx_WindowsFormsApp1
             activePresentation.Close();
             papp.Quit(); activePresentation = null; p = null; papp = null;            
             MessageBox.Show("簡報內的圖文已順利匯出到Word文件了!","",MessageBoxButtons.OK,MessageBoxIcon.Information);
+            this.Close();
         }
 
         private void textBox1_Click(object sender, EventArgs e)
