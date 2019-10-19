@@ -1,6 +1,7 @@
 # Export_img_txtbox_memo_NotesPage_in_pptx_to_docx-WindowsFormsApp
 Ｃ#將PowerPoint pptx檔內的圖片、文字方塊、備忘稿等輸出到MS Word docx文件中。
-操作步驟：\n
+操作步驟：
+
 1.在文字方塊中輸入要處理的ppt或pptx簡報檔全檔名（fullname，即含路徑與副檔名），或點一下文字方塊即可貼上剪貼簿裡已複製的全檔名。
 （全檔名的取得，可由MS Office PowerPoint）
 2.按下Enter鍵或「執行」按鈕即可執行。
