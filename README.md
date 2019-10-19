@@ -15,3 +15,25 @@
 4.順利完成會出現表示已完成之對話方塊（訊息框），按下「確定」即可結束。簡報檔乃至隨之打開的PowerPoint應用程式也會自行關閉。
 
 （唯若由操作者自己打開的簡報與應用程式，則不會隨之關閉。）
+
+
+
+緣起：
+
+將PowerPoint簡報檔內的圖片、文字方塊、備忘稿等輸出到MS Word docx文件中
+
+歡迎下載試用。未學所作，沒有智慧財產。與諸佛菩薩結緣。
+
+也歡迎諸佛菩薩回饋問題或改進意見。感恩感恩 南無阿彌陀佛
+
+http://bit.ly/31q4ROH
+
+https://share.weiyun.com/5UuyASC 
+
+https://share.weiyun.com/5jFoaru 
+
+程式開發過程實境秀詳：
+
+https://www.facebook.com/oscarsun72/videos/2298706400240481/
+
+http://bit.ly/2NoA2ID （第68集）
